@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb5ae37a7249eb0a55b6d5b3a064f460",
+    "revision": "4bbde0fc6f08744189c16e85b8c3e670",
     "url": "/auviitk/index.html"
   },
   {
-    "revision": "fde549caeb11eeea5a36",
+    "revision": "f17bb5beab80947a8be6",
     "url": "/auviitk/static/css/main.c106e835.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/auviitk/static/js/2.e6a252f1.chunk.js"
   },
   {
-    "revision": "fde549caeb11eeea5a36",
-    "url": "/auviitk/static/js/main.3eda288c.chunk.js"
+    "revision": "f17bb5beab80947a8be6",
+    "url": "/auviitk/static/js/main.56064669.chunk.js"
   },
   {
     "revision": "c2f81e6bd35d5938c665",

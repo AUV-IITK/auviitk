@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/auviitk/precache-manifest.72e782ba1db6806f793e19ec2255436d.js"
+  "/auviitk/precache-manifest.d6ac1a0df95600719e424e964af9c211.js"
 );
 
 self.addEventListener('message', (event) => {
